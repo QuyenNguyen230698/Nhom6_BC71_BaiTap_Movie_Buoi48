@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div>
+    <div className='bg-gray-900 text-green-500'>
       Quyen first note
       check first note
     </div>
